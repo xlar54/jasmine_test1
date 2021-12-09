@@ -1,0 +1,9 @@
+{
+    "main": "app.js",
+    "devDependencies": {
+        "jasmine": "^3.10.0"
+    },
+    "scripts": {
+        "test":"node ./spec/test1.spec.js"
+    }
+}
